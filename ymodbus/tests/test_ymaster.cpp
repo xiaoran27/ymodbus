@@ -12,6 +12,7 @@
 #include "ymod/master/ymaster.h"
 
 #include <iomanip>
+#include <functional>
 
 void LOG_Init(char *prog) {}
 void LOG_Fini(void) {}
